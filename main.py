@@ -23,14 +23,9 @@ def hacking():
     for i in range(1):
         pt.typewrite("Hacking...")
         pt.press("enter")
-        pt.typewrite("Penetration completed system shutingdown....")
-        pt.press("enter")
 
-sleep(5)
+sleep(20)
 hacking()
 spam()
-"""
-
-"""
 
     
